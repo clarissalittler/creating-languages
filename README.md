@@ -9,3 +9,8 @@ Now what's coming is
 + a second Python interpreter that will show how to implement call-by-reference instead of call-by-value and will talk more about the idea of pointers
 
 If you have any questions or find any problems in this code, please open an issue in Github (https://github.com/clarissalittler/creating-languages/issues) and let me know! 
+
+Update: 
+AST interpreter is mostly done but needs more testing
+Haskell interpreter is mostly done
+Pangolinv2 interpreters are getting started soon
